@@ -17,6 +17,7 @@ Topics includes
 * R
 * Raspberry Pi
 * React Native
+* Scala
 * TensorFlow
 * Unity
 * Xamarin
