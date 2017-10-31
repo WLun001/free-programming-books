@@ -10,6 +10,7 @@ Topics includes
 * Data Analysis
 * Database
 * IoT
+* Java
 * JavaScript
 * Kali Linux
 * PHP
