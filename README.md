@@ -27,6 +27,7 @@ Topics includes
 * Algorithm
 * Operating Systems
 * Kali Linux
+* Practical Digital Forensics
 
 ### Contribution 
 * Kindly drop me an email if you have any reference books to contribute.
