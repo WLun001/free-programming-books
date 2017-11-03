@@ -10,6 +10,7 @@ Topics includes
 * C++
 * Data Analysis
 * Database
+* Flux
 * IoT
 * Java
 * JavaScript
