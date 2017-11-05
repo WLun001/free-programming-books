@@ -11,6 +11,7 @@ Topics includes
 * Data Analysis
 * Database
 * Flux
+* Git
 * IoT
 * Java
 * JavaScript
