@@ -1,10 +1,11 @@
-# Free Programming Books
+# Free Programming/Computer Books
 
-### Free programming books to enchance technical skills. Will be updated daily 
+### Free books to enchance technical skills. Updated daily 
 
 Click [here](https://app.box.com/v/free-programming-books) to preview and download free books!
 
 Topics includes
+* Algorithm
 * Android
 * Bootstrap
 * C++
@@ -16,7 +17,11 @@ Topics includes
 * Java
 * JavaScript
 * Kali Linux
+* Kali Linux
+* Network Security
+* Operating Systems
 * PHP
+* Practical Digital Forensics
 * Python
 * R
 * Raspberry Pi
@@ -25,11 +30,6 @@ Topics includes
 * TensorFlow
 * Unity
 * Xamarin
-* Network Security
-* Algorithm
-* Operating Systems
-* Kali Linux
-* Practical Digital Forensics
 
 ### Contribution 
 * Kindly drop me an email if you have any reference books to contribute.
