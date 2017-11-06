@@ -4,7 +4,7 @@
 
 :link: Click  [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
 
-Topics includes :computer:
+Topics include :computer:
 * Algorithm
 * Android
 * Bootstrap
