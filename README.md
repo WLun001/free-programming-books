@@ -7,10 +7,12 @@
 Topics include :computer:
 * Algorithm
 * Android
+* AWS
 * Bootstrap
 * C++
 * Data Analysis
 * Database
+* Docker
 * Flux
 * Git
 * IoT
@@ -27,9 +29,11 @@ Topics include :computer:
 * Raspberry Pi
 * React Native
 * Scala
+* Swift
 * TensorFlow
 * Unity
 * Xamarin
+and many more...
 
 ### Kids Section
 :link: Click [here](https://app.box.com/v/free-programming-books/folder/41495477336) for kids section
