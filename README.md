@@ -22,14 +22,12 @@ Topics include :computer:
 * Java
 * JavaScript
 * Kali Linux
-* Kali Linux
 * Network Security
 * Operating Systems
 * PHP
 * Practical Digital Forensics
 * Python
 * R
-* Raspberry Pi
 * React Native
 * Scala
 * Swift
