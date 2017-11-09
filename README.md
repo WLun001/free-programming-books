@@ -5,7 +5,7 @@
 :link: Click  [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
 
 ### Quick View
-[](https://github.com/WLun001/free-programming-books/blob/master/Quick-look.gif)
+![](Quick-look.gif "Quick view of available books")
 
 Topics include :computer:
 * Algorithm
