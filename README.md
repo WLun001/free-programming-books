@@ -4,6 +4,9 @@
 
 :link: Click  [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
 
+### Quick View
+[](Quick-look.gif)
+
 Topics include :computer:
 * Algorithm
 * Android
