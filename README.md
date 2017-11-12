@@ -1,7 +1,7 @@
 # Free Programming/Computer Books 
 > Free books to enchance technical skills. Updated daily 
 
-## Hot Topics
+## Hot Topics :fire:
 - [x] Game development
    * C++
    * iOS
@@ -18,7 +18,7 @@
      * React Native
      * Xamarin
 
-## Quick View
+## Quick View :mag_right:
 ![](quick-look.gif "Quick view of available books")
 
 
@@ -54,13 +54,13 @@
 * Wireshark
 and many more...
 
-## Download
+## Download :arrow_down:
 :link: Click  [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
 
 ## Kids Section
 :link: Click [here](https://app.box.com/s/dssd6sw6ogtqz8ikjjo9horg4bqyxuet) for kids section
 
-## Contribution 
+## Contribution :bulb:
 Kindly drop me an :email: - weilun_95@hotmail.com if you have any reference books to contribute.
 
 ## Credits
