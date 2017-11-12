@@ -23,41 +23,8 @@
 ## Quick View :mag_right:
 ![](quick-look.gif "Quick view of available books")
 
-
-
-### Topics include :computer:
-* .NET
-* Algorithm
-* Android
-* AWS
-* Bootstrap
-* C++
-* Data Analysis
-* Database
-* Docker
-* Flux
-* Git
-* IoT
-* Java
-* JavaScript
-* Kali Linux
-* Network Security
-* Operating Systems
-* PHP
-* Practical Digital Forensics
-* Python
-* R
-* React Native
-* Scala
-* Swift
-* TensorFlow
-* Unity
-* Xamarin
-* Wireshark
-and many more...
-
 ## Download :arrow_down:
-:link: Click  [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
+:link: Click [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
 
 ## Kids Section
 :link: Click [here](https://app.box.com/s/dssd6sw6ogtqz8ikjjo9horg4bqyxuet) for kids section
