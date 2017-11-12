@@ -14,6 +14,8 @@
    * TensorFlow
 - [x] Mobile Development
    * Native
+     * Java
+     * Swift
    * Cross platform
      * React Native
      * Xamarin
