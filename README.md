@@ -7,21 +7,21 @@
 
 
 ## Hot Topics :fire:
-- [x] Game development
+- [x] **Game development**
    * C++
    * iOS
    * Unity
-- [x] Machine Learning
+- [x] **Machine Learning**
    * .NET
    * Java
    * Python
    * R
    * TensorFlow
-- [x] Mobile Development
-   * Native
+- [x] **Mobile Development**
+   * *Native*
      * Java
-     * Swift
-   * Cross platform
+     * Swift/Objective-C
+   * *Cross-platform*
      * React Native
      * Xamarin
 
