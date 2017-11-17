@@ -24,6 +24,15 @@
    * *Cross-platform*
      * React Native
      * Xamarin
+- [x] **Web Development**
+   * Angular
+   * Bootstrap
+   * Flux
+   * JavaScript
+   * PHP
+   * Python
+   * React
+   
 
 ## Quick View :mag_right:
 ![](quick-look.gif "Quick view of available books")
