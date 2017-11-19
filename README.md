@@ -27,6 +27,7 @@
 - [x] **Web Development**
    * Angular
    * Bootstrap
+   * Django
    * Flux
    * JavaScript
    * PHP
