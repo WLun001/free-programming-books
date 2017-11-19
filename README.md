@@ -13,10 +13,6 @@ Free books to enchance technical skills. Updated daily
    * C++
    * iOS
    * Unity
-   
-- [x] **Testing**
-   * Kali Linux
-   * Python 
 - [x] **Machine Learning**
    * .NET
    * Java
@@ -30,6 +26,9 @@ Free books to enchance technical skills. Updated daily
    * *Cross-platform*
      * React Native
      * Xamarin
+- [x] **Software Testing**
+   * Kali Linux
+   * Python 
 - [x] **Web Development**
    * Angular
    * Bootstrap
@@ -40,7 +39,6 @@ Free books to enchance technical skills. Updated daily
    * Python
    * React
    
-
 ## Quick View :mag_right:
 ![](quick-look.gif "Quick view of available books")
 
