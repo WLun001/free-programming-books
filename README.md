@@ -3,14 +3,20 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-water.svg)](http://forthebadge.com)
 # Free Programming/Computer Books 
-> Free books to enchance technical skills. Updated daily 
+Free books to enchance technical skills. Updated daily 
 
 
 ## Hot Topics :fire:
+> The related topics can be found on the folder stated. 
+>> Books for game development with C++ can be found in "C++" folder. 
 - [x] **Game development**
    * C++
    * iOS
    * Unity
+   
+- [x] **Testing**
+   * Kali Linux
+   * Python 
 - [x] **Machine Learning**
    * .NET
    * Java
