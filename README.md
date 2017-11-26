@@ -9,38 +9,86 @@ Free books to enchance technical skills. Updated daily
 ## Hot Topics :fire:
 > The related topics can be found on the folder stated. 
 >> Books for game development with C++ can be found in "C++" folder. 
-- [x] **Game development**
-   * C++
-   * iOS
-   * Unity
-- [x] **Machine Learning**
-   * .NET
-   * Java
-   * Python
-   * R
-   * TensorFlow
-- [x] **Mobile Development**
-   * *Native*
-     * Java/Kotlin
-     * Swift/Objective-C
-   * *Cross-platform*
-     * React Native
-     * Xamarin
-- [x] **Software Testing**
-   * Kali Linux
-   * Python 
-- [x] **Web Development**
-   * Angular
-   * ASP.NET
-   * Bootstrap
-   * Django
-   * Flux
-   * JavaScript
-   * Node.js
-   * PHP
-   * Python
-   * React
-   * Scrapy
+<details>
+     <summary>Game development</summary>
+  	 <p>
+  		<ul>
+  		<li>C++</li>
+  		<li>iOS</li>
+ 	    <li>Unity</li>
+		</ul>  
+ 	 </p>
+</details>
+
+<details>
+     <summary>Machine Learning</summary>
+  	 <p>
+  		<ul>
+  		<li>.NET</li>
+  		<li>Java</li>
+ 	    <li>Python</li>
+ 	    <li>R</li>
+ 	    <li>TensorFlow</li>
+		</ul>  
+ 	 </p>
+</details>
+
+<details>
+    <summary>Mobile Development</summary>
+    <p>
+        <ul>
+            <li>
+                <details>
+                    <summary>Native</summary>
+                    <p>
+                        <ul>
+                            <li>Java/Kotlin</li>
+                            <li>Objective-C/Swift</li>
+                        </ul>
+                    </p>
+                </details>
+            </li>
+            <li><details>
+                    <summary>Cross-platform</summary>
+                    <p>
+                        <ul>
+                            <li>React Native</li>
+                            <li>Xamarin</li>
+                        </ul>
+                    </p>
+                </details></li>
+        </ul>
+    </p>
+</details>
+
+<details>
+     <summary>Software Testing</summary>
+  	 <p>
+  		<ul>
+  		<li>Kali Linux</li>
+  		<li>Python</li>
+		</ul>  
+ 	 </p>
+</details>
+
+<details>
+    <summary>Web Development</summary>
+    <p>
+        <ul>
+            <li>Angular</li>
+            <li>ASP.NET</li>
+            <li>Bootstrap</li>
+            <li>Django</li>
+            <li>Flux</li>
+            <li>JavaScript</li>
+            <li>Node.js</li>
+            <li>PHP</li>
+            <li>Python</li>
+            <li>React</li>
+            <li>Scrapy</li>
+        </ul>
+    </p>
+</details>
    
 ## Quick View :mag_right:
 ![](quick-look.gif "Quick view of available books")
