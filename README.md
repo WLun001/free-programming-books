@@ -21,7 +21,7 @@ Free books to enchance technical skills. Updated daily
    * TensorFlow
 - [x] **Mobile Development**
    * *Native*
-     * Java
+     * Java/Kotlin
      * Swift/Objective-C
    * *Cross-platform*
      * React Native
@@ -31,13 +31,16 @@ Free books to enchance technical skills. Updated daily
    * Python 
 - [x] **Web Development**
    * Angular
+   * ASP.NET
    * Bootstrap
    * Django
    * Flux
    * JavaScript
+   * Node.js
    * PHP
    * Python
    * React
+   * Scrapy
    
 ## Quick View :mag_right:
 ![](quick-look.gif "Quick view of available books")
