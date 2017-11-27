@@ -1,7 +1,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/powered-by-water.svg)](http://forthebadge.com)
+[![HitCount](http://hits.dwyl.io/wlun001/free-programming-books.svg)](http://hits.dwyl.io/wlun001/free-programming-books)
 # Free Programming/Computer Books 
 Free books to enchance technical skills. Updated daily 
 
