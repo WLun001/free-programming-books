@@ -99,7 +99,7 @@ Free books to enchance technical skills. Updated daily
 ![](resource/quick-tips.gif "Quick tips")
 
 * [Packt](https://www.packtpub.com) series explanation can be found [here](https://prezi.com/6rhnqbkomjtr/the-different-series-of-packt-books)
-> Examples of different [Packt](https://www.packtpub.com) series of books.
+Examples of different series of [Packt](https://www.packtpub.com) books.
 - [x] Xamarin **Blueprints**
 - [x] Kali Linux Wireless Penetration Testing **Beginner's Guide**
 - [x] Web Development with Django **Cookbook**
