@@ -94,9 +94,20 @@ Free books to enchance technical skills. Updated daily
 ![](resource/quick-look.gif "Quick view of available books")
 
 ## Quick Tips
-Books that have [Packt](https://www.packtpub.com) logo, please search for "Who this book is for" section to know the targeted readers of the books.
+* Books that have [Packt](https://www.packtpub.com) logo, please search for "Who this book is for" section to know the targeted readers of the books.
 
 ![](resource/quick-tips.gif "Quick tips")
+
+* [Packt](https://www.packtpub.com) series explanation can be found [here](https://prezi.com/6rhnqbkomjtr/the-different-series-of-packt-books)
+> Examples of different [Packt](https://www.packtpub.com) series of books.
+- [x] Xamarin **Blueprints**
+- [x] Kali Linux Wireless Penetration Testing **Beginner's Guide**
+- [x] Web Development with Django **Cookbook**
+- [x] Java Deep Learning **Essentials**
+- [x] **Learning** Python
+- [x] **Mastering** .NET Maching Learning
+- [x] Android 5 Programming **by Example**
+  
 
 ## Download :arrow_down:
 :link: Click [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
