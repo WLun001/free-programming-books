@@ -3,7 +3,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 [![HitCount](http://hits.dwyl.io/wlun001/free-programming-books.svg)](http://hits.dwyl.io/wlun001/free-programming-books)
 # Free Programming/Computer Books 
-Free books to enchance technical skills. Updated daily 
+Free books to enchance technical skills. Updated regulaly.  
 
 
 ## Hot Topics :fire:
