@@ -91,10 +91,15 @@ Free books to enchance technical skills. Updated daily
 </details>
    
 ## Quick View :mag_right:
-![](quick-look.gif "Quick view of available books")
+![](resource/quick-look.gif "Quick view of available books")
+
+## Quick Tips
+Books that have [Packt](https://www.packtpub.com) logo, please search for "Who this book is for" () section to know the targeted readers of the books.
+![](resource/quick-tips.gif "Quick tips")
 
 ## Download :arrow_down:
 :link: Click [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
+
 
 ## Kids Section
 :link: Click [here](https://app.box.com/s/dssd6sw6ogtqz8ikjjo9horg4bqyxuet) for kids section
