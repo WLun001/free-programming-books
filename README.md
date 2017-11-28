@@ -5,8 +5,24 @@
 # Free Programming/Computer Books 
 Free books to enchance technical skills. Updated regulaly.  
 
+## Table of Content
+  * [Hot Topics](#hot-topics)
+  * [Quick View](#quick-view)
+  * [Quick Tips](#quick-tips)
+    + [Discover books](#discover-books)
+    + [Explanation of different series of Packt books](#explanation-of-different-series-of-packt-books)
+    + [Examples of different series of Packt books.](#examples-of-different-series-of-packt-books)
+  * [Download](#download)
+  * [Kids Section](#kids-section)
+  * [Contribution](#contribution)
+  * [Credits](#credits)
 
-## Hot Topics :fire:
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
+
+## Hot Topics
 >The related topics can be found on the folder stated. 
 >>Books for game development with C++ can be found in "C++" folder. 
 <details>
@@ -90,14 +106,15 @@ Free books to enchance technical skills. Updated regulaly.
     </p>
 </details>
    
-## Quick View :mag_right:
+## Quick View
 ![](resource/quick-look.gif "Quick view of available books")
 
 ## Quick Tips
+### Discover books
 * Books that have [Packt](https://www.packtpub.com) logo, please search for "Who this book is for" section to know the targeted readers of the books.
 
 ![](resource/quick-tips.gif "Quick tips")
-* Different series of [Packt](https://www.packtpub.com) books
+### Explanation of different series of Packt books
   * Blueprints
     * A step-by-step guide—closely focused on **developing a range 3-10 typical projects or application** types for that technology.
     * This series is most appropriate where there are more than one typical applications for a technology, which are reasonably different from each other. A user may only be interested in one core aspect.
@@ -132,7 +149,7 @@ Free books to enchance technical skills. Updated regulaly.
     * Should cover a few sample applications; every step needed to build them is detailed. 
     * Does not assume detailed knowledge of similar tools
     * Aims to cover the fundamentals relating to that specific application : does not cover all the niche areas or specialized application or tools
-### Examples of different series of [Packt](https://www.packtpub.com) books.
+### Examples of different series of Packt books.
 - [x] Xamarin **Blueprints**
 - [x] Kali Linux Wireless Penetration Testing **Beginner's Guide**
 - [x] Web Development with Django **Cookbook**
@@ -144,15 +161,15 @@ Free books to enchance technical skills. Updated regulaly.
 [Packt](https://www.packtpub.com) series explanation can be found [here](https://prezi.com/6rhnqbkomjtr/the-different-series-of-packt-books).
   
 
-## Download :arrow_down:
-:link: Click [here](https://app.box.com/v/free-programming-books) to preview and download free books! :books:
+## Download 
+:link: Click [here](https://app.box.com/v/free-programming-books) to preview and :arrow_down: free books! :books:
 
 
 ## Kids Section
 :link: Click [here](https://app.box.com/s/dssd6sw6ogtqz8ikjjo9horg4bqyxuet) for kids section
 
-## Contribution :bulb:
-Kindly drop me an :email: - weilun_95@hotmail.com if you have any reference books to contribute.
+## Contribution 
+:bulb: Kindly drop me an :email: - weilun_95@hotmail.com if you have any reference books to contribute.
 
 ## Credits
 :link: Most of the books were taken from [here](https://www.packtpub.com/packt/offers/free-learning)
