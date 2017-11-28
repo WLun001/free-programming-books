@@ -94,7 +94,7 @@ Free books to enchance technical skills. Updated daily
 ![](resource/quick-look.gif "Quick view of available books")
 
 ## Quick Tips
-Books that have [Packt](https://www.packtpub.com) logo, please search for "Who this book is for" () section to know the targeted readers of the books.
+Books that have [Packt](https://www.packtpub.com) logo, please search for "Who this book is for" section to know the targeted readers of the books.
 ![](resource/quick-tips.gif "Quick tips")
 
 ## Download :arrow_down:
