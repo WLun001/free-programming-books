@@ -11,7 +11,7 @@ Free books to enchance technical skills. Updated regulaly.
   * [Quick Tips](#quick-tips)
     + [Discover books](#discover-books)
     + [Explanation of different series of Packt books](#explanation-of-different-series-of-packt-books)
-    + [Examples of different series of Packt books.](#examples-of-different-series-of-packt-books)
+    + [Example of different series of Packt books.](#example-of-different-series-of-packt-books)
   * [Download](#download)
   * [Kids Section](#kids-section)
   * [Contribution](#contribution)
@@ -149,7 +149,7 @@ Free books to enchance technical skills. Updated regulaly.
     * Should cover a few sample applications; every step needed to build them is detailed. 
     * Does not assume detailed knowledge of similar tools
     * Aims to cover the fundamentals relating to that specific application : does not cover all the niche areas or specialized application or tools
-### Examples of different series of Packt books.
+### Example of different series of Packt books.
 - [x] Xamarin **Blueprints**
 - [x] Kali Linux Wireless Penetration Testing **Beginner's Guide**
 - [x] Web Development with Django **Cookbook**
