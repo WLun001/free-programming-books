@@ -25,6 +25,10 @@ Free books to enchance technical skills. Updated regulaly.
 ## Hot Topics
 >The related topics can be found on the folder stated. 
 >>Books for game development with C++ can be found in "C++" folder. 
+
+<details>
+     <summary>Blockchain</summary>
+</details>
 <details>
      <summary>Game development</summary>
   	 <p>
