@@ -166,12 +166,12 @@ Free books to enchance technical skills. Updated regulaly.
   
 
 ## Download 
-:link: Click [here](https://app.box.com/v/free-programming-books) to preview and :arrow_down: free books! :books:
+:link: Click [here](https://goo.gl/zTVKNu) to preview and :arrow_down: free books! :books:
 * **Please only download the books that you needed as the whole folder is more than 3 GB**
 
 
 ## Kids Section
-:link: Click [here](https://app.box.com/s/dssd6sw6ogtqz8ikjjo9horg4bqyxuet) for kids section
+:link: Click [here](https://goo.gl/f8D7BV) for kids section
 
 ## Contribution 
 :bulb: Kindly drop me an :email: - weilun_95@hotmail.com if you have any reference books to contribute.
