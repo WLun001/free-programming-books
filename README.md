@@ -120,39 +120,19 @@ Free books to enchance technical skills. Updated regulaly.
 ![](resource/quick-tips.gif "Quick tips")
 ### Explanation of different series of Packt books
   * Blueprints
-    * A step-by-step guide—closely focused on **developing a range 3-10 typical projects or application** types for that technology.
-    * This series is most appropriate where there are more than one typical applications for a technology, which are reasonably different from each other. A user may only be interested in one core aspect.
-    * Although a step-by-step guide, but this does assume a **high level of knowledge** on the technology or tool. 
-  * Beginner's Guide
-    * A step-by-step guide—but closely focused on **developing a typical example of the primary project or application** type for that technology. 
-    * Should cover a **few sample applications**; every step needed to build them is **detailed**. 
-    * Sample applications should build up complexity. The start should stretch the reader's imagination and show them what they can do that they didn't know they could. The middle should reinforce this learning. The end should stretch them further, and lead them in to some of our other books and pathways. 
-    * Does not assume detailed knowledge of similar tools. 
-    * Aims to **cover the fundamentals** relating to that specific application. **Does not cover all** the niche areas or specialized application or tools.
+    * If a person knows the topic and has decent experience building small projects can pick this up to building use-case projects.
   * Cookbook
-    * 75 more **useful and practical** tasks to do to improve and existing working system.
-    *  Focus on **techniques that will be highly valued** by a typical user of the technology. This might mean building more efficient, attractive, powerful, responsive, or reliable solutions, depending on the tool and its purpose. 
-    * Techniques can also cover useful housekeeping tasks such as **backing up**, **protecting**, and **maintaining** your application or data. 
-    * 10-15 chapters, each containing a different type of recipe. A variety of recipes such that there will be lots to interest every target reader. 
+    * Anybody who knows the topic and wants to directly work with only practical examples and work through them can pick up    Cookbook. It has topics worked through in the form of a recipe with steps mentioned to go through the entire recipe process for a topic.
   * Essentials
     * **Fast paced**, **highly concentrated** information.
-    * Focuses on the **essentials**—the things you'll really need to know to use this.
-    * Gets you up, running, and productive quickly.
-    * Doesn't just document the tool, covers what you need to know to use it in **real life**.
+    * Anybody who wants to know key essentials/key things about a topic quickly can pick up an Essentials book.
   * Learning
     * A step-by-step guide. 
-    * **Does not** assume detailed knowledge of similar tools. 
-    * Aims to cover the **fundamental**s related to typical applications. Does not cover all the niche areas or specialized application or tools. 
-    * Focus is on providing the **practical skills** required to develop applications, with a summary of the key concepts only where strictly necessary
+    * Anybody who has some light-hearted know-how but wants to learn a topic thoroughly can pick up a Learning book.
   * Mastering
-    * Intro section covers the 'Essentials'—but assumes the user is just **refreshing or a very fast learner/expert** in similar technology.
-    * ntroduce more **low-level detail** and **concepts** on **HOW** the technology works—not just practical **'WHAT to do'**.
-    * Covers best practice/system architecture and design aspects. Authored by a real technology expert, ideally with a high profile in the community.
+    * Anybody who is well-versed with the topic and now wants to master the topic to know the industry-level or highest possible level understanding/deployment of the topic can pick up a Mastering book.
   * By Example
-    * Step-by-step guide - but closely focused on **developing a typical example of the primary project or application** type for that technology 
-    * Should cover a few sample applications; every step needed to build them is detailed. 
-    * Does not assume detailed knowledge of similar tools
-    * Aims to cover the fundamentals relating to that specific application : does not cover all the niche areas or specialized application or tools
+    * Anybody who wants to start with building a project on a topic can pick this up.
 ### Example of different series of Packt books.
 - [x] Xamarin **Blueprints**
 - [x] Kali Linux Wireless Penetration Testing **Beginner's Guide**
