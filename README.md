@@ -6,11 +6,14 @@
 Free books to enchance technical skills. Updated regulaly.  
 
 ## Table of Content
-  * [Hot Topics](#hot-topics)
+ * [Hot Topics](#hot-topics)
   * [Quick View](#quick-view)
   * [Quick Tips](#quick-tips)
     + [Discover books](#discover-books)
     + [Explanation of different series of Packt books](#explanation-of-different-series-of-packt-books)
+      - [Beginner](#beginner)
+      - [Intermediate](#intermediate)
+      - [Advanced](#advanced)
     + [Example of different series of Packt books.](#example-of-different-series-of-packt-books)
   * [Download](#download)
   * [Kids Section](#kids-section)
@@ -116,15 +119,18 @@ Free books to enchance technical skills. Updated regulaly.
 
 ![](resource/quick-tips.gif "Quick tips")
 ### Explanation of different series of Packt books
+#### Beginner
   * Beginner's Guide
     * Anybody starting/beginning on a particular topic with some practical examples can pick a Beginner's Guide, to learn right from scratch.
   * Learning
     * A step-by-step guide. 
     * Anybody who has some light-hearted know-how but wants to learn a topic thoroughly can pick up a Learning book.
+#### Intermediate 
   * By Example
     * Anybody who wants to start with building a project on a topic can pick this up.
   * Cookbook
     * Anybody who knows the topic and wants to directly work with only practical examples and work through them can pick up    Cookbook. It has topics worked through in the form of a recipe with steps mentioned to go through the entire recipe process for a topic.
+#### Advanced
   * Essentials
     * Fast paced, highly concentrated information.
     * Anybody who wants to know key essentials/key things about a topic quickly can pick up an Essentials book.
