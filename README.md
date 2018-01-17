@@ -168,7 +168,7 @@ Free books to enchance technical skills. Updated regulaly.
 :link: Click [here](https://goo.gl/f8D7BV) for kids section
 
 ## Contribution 
-:bulb: Kindly drop me an :email: - [Wei Lun](weilun_95@hotmail.com) if you have any reference books to contribute.
+:bulb: Kindly drop me an [email](weilun_95@hotmail.com) if you have any reference books to contribute.
 
 ## Credits
 :link: Most of the books were taken from [here](https://www.packtpub.com/packt/offers/free-learning)
