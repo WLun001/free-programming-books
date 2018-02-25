@@ -165,7 +165,7 @@ Free books to enchance technical skills. Updated regulaly.
 * **Please only download the books that you needed as the whole folder is more than 3 GB**
 
 ## Beginner section
-:link: Click [here](https://goo.gl/f8D7BV) for kids section
+:link: Click [here](https://goo.gl/f8D7BV) for beginner section
 
 ## Contribution 
 :bulb: Kindly drop me an [email](weilun_95@hotmail.com) if you have any reference books to contribute.
