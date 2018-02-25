@@ -16,7 +16,7 @@ Free books to enchance technical skills. Updated regulaly.
       - [Advanced](#advanced)
     + [Example of different series of Packt books.](#example-of-different-series-of-packt-books)
   * [Download](#download)
-  * [Kids Section](#kids-section)
+  * [Beginner](#beginner)
   * [Contribution](#contribution)
   * [Credits](#credits)
 
@@ -164,7 +164,7 @@ Free books to enchance technical skills. Updated regulaly.
 :link: Click [here](https://goo.gl/zTVKNu) to preview and :arrow_down: free books! :books:
 * **Please only download the books that you needed as the whole folder is more than 3 GB**
 
-## Kids Section
+## Beginner
 :link: Click [here](https://goo.gl/f8D7BV) for kids section
 
 ## Contribution 
