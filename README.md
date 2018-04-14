@@ -161,14 +161,14 @@ Free books to enchance technical skills. Updated regulaly.
 [Packt](https://www.packtpub.com) series explanation can be found [here](https://prezi.com/6rhnqbkomjtr/the-different-series-of-packt-books).
   
 ## Download 
-:link: Click [here](https://goo.gl/zTVKNu) to preview and :arrow_down: free books! :books:
+Click [here](https://goo.gl/zTVKNu) to preview and downlaod free books!
 * **Please only download the books that you needed as the whole folder is more than 3 GB**
 
 ## Beginner section
-:link: Click [here](https://goo.gl/f8D7BV) for beginner section
+ Click [here](https://goo.gl/f8D7BV) for beginner section
 
 ## Contribution 
-:bulb: Kindly drop me an [email](weilun_95@hotmail.com) if you have any reference books to contribute.
+ Kindly drop me an [email](weilun_95@hotmail.com) if you have any reference books to contribute.
 
 ## Credits
-:link: Most of the books were taken from [here](https://www.packtpub.com/packt/offers/free-learning)
+ Most of the books were taken from [here](https://www.packtpub.com/packt/offers/free-learning)
